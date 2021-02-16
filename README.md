@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsakhilrana
+- 👋 Hi, I’m Akhil, Developer & Designer
 - 👀 I’m interested in Development
 - 🔭 I’m currently working on creation
 - 🌱 I’m currently learning Flutter
