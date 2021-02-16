@@ -1,13 +1,9 @@
 - 👋 Hi, I’m @itsakhilrana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- 🔭 I’m currently working on creation. 
-- 🌱 I’m currently learning Flutter. 
+- 👀 I’m interested in Development
+- 🔭 I’m currently working on creation
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: akhilice13@gmail.com 
-- ⚡ Fun fact: Never underestimate semicolon. 
+- ⚡ Fun fact: Never underestimate the semicolon 
 
 
 
