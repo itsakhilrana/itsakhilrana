@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akhil, Developer & Designer
 - 👀 I’m interested in Creation
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me: akhilice13@gmail.com 
+- 🌱 I’m currently learning Native Android, Testing, DevOps, Blockchain
+- 📫 How to reach me: itsakhilrana@gmail.com 
 - ⚡ Fun fact: Never underestimate the semicolon 
 
 
