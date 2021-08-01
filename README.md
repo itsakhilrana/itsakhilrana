@@ -53,9 +53,9 @@
 <div align="center">   
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"  height="50"/>
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"  height="50"/>
-</div></td><td valign="top" width="33%">
+</div></td><td width="33%"></table>  
 
- <br/>
+ <br/> 
   
 ## Connect with me  
 <div align="center">
@@ -71,6 +71,8 @@
 </div> 
 
 <br/>
+  
+  
 <!---
 itsakhilrana/itsakhilrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
