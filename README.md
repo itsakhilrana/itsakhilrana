@@ -55,6 +55,7 @@
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"  height="50"/>
 </div></td><td valign="top" width="33%">
 
+ <br/>
   
 ## Connect with me  
 <div align="center">
