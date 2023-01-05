@@ -5,7 +5,7 @@
 - 👨‍💻 My [Portfolio](http://akhilranaportfolio.herokuapp.com/)  
   
 
-- 📝 My [Resume](https://drive.google.com/file/d/1fS1HntvtsrtXYTjvTYIb79cqv9TgpJKf/view)
+- 📝 My [Resume](https://drive.google.com/file/d/16v2AOUNODJgFXomsqOFTTpDSFp0f34uU/view)
 
 
 - 🌱 I’m currently learning Unit Testing, Docker and Nginx  
